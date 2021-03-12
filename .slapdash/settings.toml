@@ -1,0 +1,63 @@
+# Override theme colors.
+# [theme]
+
+# Main color used to guide people to the main action at hand.
+# action = "#0F5AFD"
+
+# The hover color for the main action.
+# actionHover = "#0E55F0"
+
+# Text color to used alongside the main action.
+# actionText = "#ffffff"
+
+# Background color of the windows.
+# background = "#ffffff"
+
+# Color for highlighting active option in the Command Bar.
+# commandBarFocus = "#FF6BA433"
+
+# Background color of some smaller elements.
+# elementBackground = "#F8F8F8"
+
+# A stark "you are here" marker, used sparsely to concentrate attention.
+# focus = "#FF6BA4"
+
+# A less stark "you are here" marker.
+# focusSoft = "#FF6BA433"
+
+# Background color of the nav bar.
+# navBackground = "#F8F8F8"
+
+# Background color of a nav bar item when it's selected.
+# navFocus = "#0000000D"
+
+# Text color of a nav bar item.
+# navText = "#666666"
+
+# Used to mask a layer below, for example when displaying modals.
+# opacityOverlay = "#00000066"
+
+# Scroll bar color.
+# scrollBar = "#000000"
+
+# This is meant to be used as the shadow for components that sit on top of
+# others.
+# shadow = "#0000000D"
+
+# A thin stroke that's used to create separation between elements. Serves as an
+# outline that works well in the context of the background color.
+# stroke = "#EEEEEE"
+
+# Color for regular text, optimized for legibility on background color.
+# text = "#333333"
+
+# Text color for errors.
+# textError = "#EA2B2B"
+
+# Less prominent text color to be used used to create hierarchy in relation to 
+# main text color.
+# textSecondary = "#666666"
+
+# A less prominent text color, helpful for inactive states and form input hints.
+# visual hierarchy by way of color.
+# textTertiary = "#999999"
