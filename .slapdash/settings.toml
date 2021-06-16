@@ -13,18 +13,19 @@
 # Background color of the windows.
 # background = "#ffffff"
 
-# Color for highlighting active option in the Command Bar.
-# commandBarFocus = "#FF6BA433"
-
 # Background color of some smaller elements.
 # elementBackground = "#F8F8F8"
 
 # A stark "you are here" marker, used sparsely to concentrate attention.
 # focus = "#FF6BA4"
 
-# A less stark "you are here" marker.
-# focusSoft = "#FF6BA433"
+# Background color for an element that is currently focused. For example,
+# the selected Command Bar Option.
+# focusBackground = "#00000008"
 
+# Used to delineate when an input or button is focused.
+# focusInput = "#FF6BA433"
+ 
 # Background color of the nav bar.
 # navBackground = "#F8F8F8"
 
@@ -59,5 +60,4 @@
 # textSecondary = "#666666"
 
 # A less prominent text color, helpful for inactive states and form input hints.
-# visual hierarchy by way of color.
 # textTertiary = "#999999"
