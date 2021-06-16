@@ -28,10 +28,10 @@ This is a configuration file to override application settings. It's written usin
 | `theme.actionHover`       | The hover color for the main action.                                                                                                                 |
 | `theme.actionText`        | Text color to used alongside the main action.                                                                                                        |
 | `theme.background`        | Background color of the windows.                                                                                                                     |
-| `theme.commandBarFocus`   | Color for highlighting active option in the Command Bar.                                                                                             |
 | `theme.elementBackground` | Background color of some smaller elements.                                                                                                           |
-| `theme.focus`             | Color, a stark "you are here" marker, used sparsely to concentrate attention.                                                                        |
-| `theme.focusSoft`         | Color, a less stark "you are here" marker.                                                                                                           |
+| `theme.focus`             | A stark "you are here" marker, used sparsely to concentrate attention.                                                                               |
+| `theme.focusBackground`   | Background color for an element that is currently focused.                                                                                           |
+| `theme.focusInput`        | Used to delineate when an input or button is focused.                                                                                                |
 | `theme.navBackground`     | Background color of the nav bar.                                                                                                                     |
 | `theme.navFocus`          | Background color of a nav bar item when it's selected.                                                                                               |
 | `theme.navText`           | Text color of a nav bar item.                                                                                                                        |
