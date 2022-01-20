@@ -1,4 +1,4 @@
-<img src="dot-slapdash.svg" height="80" /> 
+<img src="dot-slapdash.svg" height="80" />
 
 ### A magical folder on your computer that helps you customize Slapdash.
 
@@ -39,6 +39,7 @@ This is a configuration file to override application settings. It's written usin
 | `theme.scrollBar`         | Scroll bar color.                                                                                                                                    |
 | `theme.shadow`            | Color, used as the shadow for components that sit on top of others.                                                                                  |
 | `theme.stroke`            | Color, a thin stroke that's used to create separation between elements. Serves as an outline that works well in the context of the background color. |
+| `theme.strokeLight`       | Color, a step-down in contrast from `theme.stroke`, balanced against `theme.background`.                                                             |
 | `theme.text`              | Regular color for any text.                                                                                                                          |
 | `theme.textError`         | Text color for errors.                                                                                                                               |
 | `theme.textSecondary`     | Color, usually used alongside the `text` color, provides some visual hierarchy by way of color.                                                      |

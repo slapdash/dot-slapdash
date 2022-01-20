@@ -25,7 +25,7 @@
 
 # Used to delineate when an input or button is focused.
 # focusInput = "#FF6BA433"
- 
+
 # Background color of the nav bar.
 # navBackground = "#F8F8F8"
 
@@ -48,6 +48,10 @@
 # A thin stroke that's used to create separation between elements. Serves as an
 # outline that works well in the context of the background color.
 # stroke = "#EEEEEE"
+
+# A thin stroke, a step-down in contrast from `stroke`, balanced against
+# `background`.
+# strokeLight = "#F4F4F4"
 
 # Color for regular text, optimized for legibility on background color.
 # text = "#333333"
